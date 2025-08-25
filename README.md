@@ -24,6 +24,7 @@ The code could do inference for all cases in the data folder `--base_samples xxx
 ## Evaluation
 We also provide the code to evaluate the performance according to metrics we used in the manuscript. Please refer to `/evaluation/evaluation_all_ddpm.py`.
 
+## Citation
 If you find this helpful, please consider to cite our work:
 ```
 @article{DONG2025100734,
